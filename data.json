@@ -1,0 +1,1444 @@
+{
+    "user_data": {
+        "7990799592": {
+            "vip_business": true,
+            "username": "scriptik_kormit",
+            "last_active": 1774084957.866067,
+            "referral_code": "4961875a",
+            "achievements": {},
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "bank": {
+                "balance": 0,
+                "deposits": []
+            },
+            "balance": 4320995418,
+            "coins": 5,
+            "business_count": 0,
+            "last_business_income": "2026-03-21T19:48:11.688589",
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "last_daily_box": "2026-03-20",
+            "last_auto_income": "2026-03-19T17:29:39.392173",
+            "display_name": "Омагад",
+            "telegram_username": "scriptik_kormit"
+        },
+        "777000": {
+            "vip_business": false,
+            "achievements": {},
+            "balance": 100000,
+            "coins": 0,
+            "business_count": 0,
+            "last_business_income": "2026-03-09T06:04:13.789096",
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            }
+        },
+        "5723706847": {
+            "balance": 97069709,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T19:48:11.688589",
+            "username": "Umniychelovek54",
+            "last_active": 1774067782.954995,
+            "referral_code": "6571b8bf",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 9,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "5548750765": {
+            "balance": 100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-09T13:30:54.506607",
+            "username": "My_Love_sun3",
+            "last_active": 1773052254.5066745,
+            "referral_code": "9ab1436b",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "8413010389": {
+            "balance": 659109930,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T19:48:11.688589",
+            "username": "Sinvovi",
+            "last_active": 1774085801.6185322,
+            "referral_code": "708f69ec",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 16,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": true,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": "2026-03-21",
+            "last_auto_income": "2026-03-21T12:36:31.003444",
+            "bank": {
+                "balance": 0,
+                "deposits": [
+                    {
+                        "amount": 40000000,
+                        "days": 14,
+                        "multiplier": 1.6,
+                        "start_time": 1774066315.392267,
+                        "end_time": 1775275915.3922713,
+                        "withdrawn": false
+                    }
+                ]
+            },
+            "total_bets": 1,
+            "max_casino_win": 6000000,
+            "win_streak": 1,
+            "max_win_streak": 1
+        },
+        "5457173372": {
+            "balance": 100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-09T15:23:23.336569",
+            "username": "hjhjj67",
+            "last_active": 1773059003.336613,
+            "referral_code": "18bde2d0",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "8511151534": {
+            "balance": 40100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-11T13:31:34.303490",
+            "username": null,
+            "last_active": 1773225094.3035343,
+            "referral_code": "c31d214c",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "8442792156": {
+            "balance": 40100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-12T07:06:14.579917",
+            "username": "Margo137892",
+            "last_active": 1773288374.5799613,
+            "referral_code": "15b3ef74",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "6459221800": {
+            "balance": 42268544,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-12T17:22:16.592774",
+            "username": "proteinn_3",
+            "last_active": 1773330759.65557,
+            "referral_code": "6635137b",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 1,
+                    "last_work": "2026-03-12T18:38:38.618834"
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "6210615544": {
+            "balance": 40100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-13T07:21:59.641797",
+            "username": "Ioorv",
+            "last_active": 1773375719.6418424,
+            "referral_code": "7ec3b845",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "8308037417": {
+            "balance": 100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-13T18:41:41.148258",
+            "username": "gloozz2k17",
+            "last_active": 1773416514.0403054,
+            "referral_code": "fca3f6fd",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "6766512894": {
+            "balance": 40119000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-19T11:56:36.006325",
+            "username": "PRIME2021yf",
+            "last_active": 1774066229.9433866,
+            "referral_code": "a732ebe7",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 1,
+                    "last_work": "2026-03-19T13:09:17.783267"
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null,
+            "total_bets": 1,
+            "win_streak": 0
+        },
+        "7487405473": {
+            "balance": 820038144,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-19T12:20:44.155252",
+            "username": "kakwo",
+            "last_active": 1773912315.9946413,
+            "referral_code": "c1dc7246",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 1,
+                    "last_work": "2026-03-19T12:24:02.157327"
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 1,
+                    "last_work": "2026-03-19T12:24:21.463419"
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null,
+            "total_bets": 3,
+            "win_streak": 0
+        },
+        "7556330471": {
+            "balance": 40100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-19T12:31:15.519812",
+            "username": "kokerlz",
+            "last_active": 1773912675.5198472,
+            "referral_code": "d08eea8c",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "1997185420": {
+            "balance": 40100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-19T12:31:18.782698",
+            "username": "Tokitogo",
+            "last_active": 1773912678.7827275,
+            "referral_code": "c4c4a224",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "5913609510": {
+            "balance": 0,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-19T12:31:30.100651",
+            "username": "vladik_299",
+            "last_active": 1774072925.8809967,
+            "referral_code": "aa0ddbdf",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null,
+            "total_bets": 1,
+            "max_casino_win": 80200000,
+            "win_streak": 1,
+            "max_win_streak": 1
+        },
+        "6066080225": {
+            "balance": 100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-19T13:31:26.488689",
+            "username": "vertydo",
+            "last_active": 1773923860.1598966,
+            "referral_code": "9d9d2a69",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "8389347003": {
+            "balance": 80400000,
+            "coins": 5,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-19T14:23:13.829809",
+            "username": "rkn5929engl",
+            "last_active": 1774016598.5479522,
+            "referral_code": "df148d84",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": "2026-03-19",
+            "total_bets": 2,
+            "win_streak": 1,
+            "max_casino_win": 40400000,
+            "max_win_streak": 1
+        },
+        "7581133015": {
+            "balance": 100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-19T15:37:41.036701",
+            "username": "My_love_Vikulya",
+            "last_active": 1773923863.0484047,
+            "referral_code": "5b7eeff9",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "1087968824": {
+            "balance": 100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-20T04:52:43.656206",
+            "username": "GroupAnonymousBot",
+            "last_active": 1773971563.6562514,
+            "referral_code": "dbb9d107",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "7270682693": {
+            "balance": 24765558943,
+            "coins": 3,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T09:42:42.068007",
+            "username": "Prime_N1KO",
+            "last_active": 1774067819.2857566,
+            "referral_code": "1b63db4b",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 1,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": "2026-03-20",
+            "total_bets": 26,
+            "win_streak": 0,
+            "max_casino_win": 3000000,
+            "max_win_streak": 2,
+            "bank": {
+                "balance": 0,
+                "deposits": [
+                    {
+                        "amount": 50000,
+                        "days": 1,
+                        "multiplier": 1.05,
+                        "start_time": 1773982339.268739,
+                        "end_time": 1774068739.2687447,
+                        "withdrawn": false
+                    },
+                    {
+                        "amount": 50000,
+                        "days": 1,
+                        "multiplier": 1.05,
+                        "start_time": 1773982348.4035795,
+                        "end_time": 1774068748.403584,
+                        "withdrawn": false
+                    }
+                ]
+            },
+            "last_auto_income": "2026-03-20T18:23:22.432948",
+            "ban_info": {
+                "banned_by": "scriptik_kormit",
+                "banned_at": 1774075420.3017771,
+                "banned_until": 864001773989020.2,
+                "reason": "Бан в группе от @scriptik_kormit"
+            }
+        },
+        "8605363590": {
+            "balance": 44377119349,
+            "coins": 3,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T09:42:42.068007",
+            "username": "Cs_N1KO",
+            "last_active": 1774105654.252738,
+            "referral_code": "306393c1",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 20,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 7,
+                    "last_work": "2026-03-21T09:07:52.288395"
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 3,
+                    "last_work": "2026-03-21T06:45:18.341072"
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 3,
+                    "last_work": "2026-03-21T06:45:53.422767"
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 5,
+                    "last_work": "2026-03-21T09:08:11.326039"
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": "2026-03-20",
+            "last_auto_income": "2026-03-21T06:50:52.562381",
+            "bank": {
+                "balance": 0,
+                "deposits": [
+                    {
+                        "amount": 118000000,
+                        "days": 30,
+                        "multiplier": 2.0,
+                        "start_time": 1774074503.1537461,
+                        "end_time": 1776666503.153751,
+                        "withdrawn": false
+                    }
+                ]
+            },
+            "total_bets": 19,
+            "win_streak": 0,
+            "max_casino_win": 435000000,
+            "max_win_streak": 3,
+            "ban_info": {
+                "banned_by": "scriptik_kormit",
+                "banned_at": 1774075401.0173259,
+                "banned_until": 8.6400000001774e+19,
+                "reason": "Бан в группе от @scriptik_kormit"
+            }
+        },
+        "1209321776": {
+            "balance": 100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T04:16:56.579027",
+            "username": "skyraz777",
+            "last_active": 1774055817.1176908,
+            "referral_code": "01ece8e6",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "8583925129": {
+            "balance": 80100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T07:08:05.041878",
+            "username": "Hatasa718193",
+            "last_active": 1774066168.500793,
+            "referral_code": "c5817995",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "5970641322": {
+            "balance": 0,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T07:08:48.480821",
+            "username": "epilepsy_KENT",
+            "last_active": 1774066142.732506,
+            "referral_code": "857fe769",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "8293853458": {
+            "balance": 40100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T07:09:11.919778",
+            "username": "sineitraktor67",
+            "last_active": 1774066151.9198112,
+            "referral_code": "1f743570",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "6825395287": {
+            "balance": 40100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T08:16:34.695271",
+            "username": "user21639",
+            "last_active": 1774070194.695305,
+            "referral_code": "dd4e5d68",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "8688722889": {
+            "balance": 40100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T08:21:51.289465",
+            "username": "OlegDonbas",
+            "last_active": 1774070511.289507,
+            "referral_code": "2bb6d243",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        },
+        "7157076530": {
+            "balance": 80100000,
+            "coins": 0,
+            "accountant_uses": 0,
+            "last_accountant_date": null,
+            "businesses": [],
+            "last_taxi_time": null,
+            "last_business_income": "2026-03-21T14:43:41.985726",
+            "username": "otmena6264",
+            "last_active": 1774093562.9749343,
+            "referral_code": "993c2c7d",
+            "referred_by": null,
+            "referrals": [],
+            "business_count": 0,
+            "inventory": {
+                "boxes": 0,
+                "items": []
+            },
+            "used_promocodes": [],
+            "promocode_used": 0,
+            "jobs": {
+                "taxi": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "accountant": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "builder": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                },
+                "businessman": {
+                    "level": 1,
+                    "completed": 0,
+                    "last_work": null
+                }
+            },
+            "vip_business": false,
+            "achievements": {},
+            "premium_items": [],
+            "last_daily_box": null
+        }
+    },
+    "banned_users": [
+        "8605363590",
+        "7270682693"
+    ],
+    "trade_offers": {},
+    "active_trades": {}
+                }
