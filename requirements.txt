@@ -1,0 +1,4 @@
+aiogram==2.25.1
+python-telegram-bot==20.7
+aiohttp==3.9.1
+asyncio==3.4.3
