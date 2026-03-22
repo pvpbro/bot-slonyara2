@@ -1,0 +1,45 @@
+{
+    "DanilKolbasenkory": {
+        "password_hash": "e07fcaee0dc545a1c4cbf9c70ebc9a8133d99ae74ac850ffb524a939dd741e29",
+        "telegram_id": 7990799592,
+        "2fa_secret": "b28a5458920100a88f0aa5d8db7cdba1",
+        "last_login": 1770612581.443395,
+        "failed_attempts": 0,
+        "last_attempt": null,
+        "level": 3,
+        "daily_limit": {
+            "money": Infinity,
+            "coins": Infinity
+        },
+        "last_updated": "2026-02-09T07:49:41.443401",
+        "daily_usage": {
+            "date": "2026-02-03",
+            "money": 35000000000,
+            "coins": 0
+        }
+    },
+    "HigherLoyz": {
+        "password_hash": "675bc2d6af2f8b575c3469050f0b143d590be3b789584b20524711620d9416a2",
+        "telegram_id": null,
+        "last_login": null,
+        "failed_attempts": 0,
+        "last_attempt": null,
+        "level": 1,
+        "daily_limit": {
+            "money": 1000000,
+            "coins": 20
+        }
+    },
+    "New_moon3": {
+        "password_hash": "0077a92bb77759c2f438be2fa461e86d0ff095af791762b9490cbfd792b6ed6b",
+        "telegram_id": 5548750765,
+        "last_login": null,
+        "failed_attempts": 0,
+        "last_attempt": null,
+        "level": 2,
+        "daily_limit": {
+            "money": 1000000,
+            "coins": 20
+        }
+    }
+}
