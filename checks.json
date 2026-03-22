@@ -1,0 +1,284 @@
+{
+    "d3eb599ba8635545": {
+        "id": "d3eb599ba8635545",
+        "creator_id": "7990799592",
+        "creator_name": "DanilKolbasenkory",
+        "amount": 1000000,
+        "max_activations": 10,
+        "used_activations": 1,
+        "created_at": 1770996323.744982,
+        "expires_at": 1771082723.744982,
+        "activated_by": [
+            "7990799592"
+        ],
+        "active": true
+    },
+    "1705f8de3777220f": {
+        "id": "1705f8de3777220f",
+        "creator_id": "7990799592",
+        "creator_name": "DanilKolbasenkory",
+        "amount": 1000000,
+        "max_activations": 10,
+        "used_activations": 3,
+        "created_at": 1771078785.5636592,
+        "expires_at": 1771165185.5636592,
+        "activated_by": [
+            "8038685352",
+            "7990799592",
+            "5289149104"
+        ],
+        "active": false
+    },
+    "abda8bb27797c758": {
+        "id": "abda8bb27797c758",
+        "creator_id": "7990799592",
+        "creator_name": "DanilKolbasenkory",
+        "amount": 10000000,
+        "max_activations": 10,
+        "used_activations": 6,
+        "created_at": 1771078802.237831,
+        "expires_at": 1771165202.237831,
+        "activated_by": [
+            "8038685352",
+            "7990799592",
+            "8091939919",
+            "6825395287",
+            "5289149104",
+            "1045547510"
+        ],
+        "active": false
+    },
+    "40751b95813af64d": {
+        "id": "40751b95813af64d",
+        "creator_id": "7990799592",
+        "creator_name": "DanilKolbasenkory",
+        "amount": 100000000,
+        "max_activations": 1,
+        "used_activations": 1,
+        "created_at": 1771153549.626252,
+        "expires_at": 1771239949.626252,
+        "activated_by": [
+            "8366113283"
+        ],
+        "active": false
+    },
+    "f91337932caa76f3": {
+        "id": "f91337932caa76f3",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 10000000,
+        "max_activations": 10,
+        "used_activations": 3,
+        "created_at": 1771339140.6701286,
+        "expires_at": 1771425540.6701286,
+        "activated_by": [
+            "8462622405",
+            "5723706847",
+            "5548750765"
+        ],
+        "active": false
+    },
+    "10dd4b2513350845": {
+        "id": "10dd4b2513350845",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 10000000,
+        "max_activations": 10,
+        "used_activations": 10,
+        "created_at": 1772023746.2168372,
+        "expires_at": 1772110146.2168372,
+        "activated_by": [
+            "8091939919",
+            "7799882723",
+            "8475725931",
+            "8538525956",
+            "5289149104",
+            "5723706847",
+            "7423509175",
+            "7664825440",
+            "8332322157",
+            "8413010389"
+        ],
+        "active": false
+    },
+    "03b4c350a1c53575": {
+        "id": "03b4c350a1c53575",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 10000000,
+        "max_activations": 10,
+        "used_activations": 7,
+        "created_at": 1772106253.7919517,
+        "expires_at": 1772192653.7919517,
+        "activated_by": [
+            "6328174914",
+            "7664825440",
+            "7506766757",
+            "5996286277",
+            "5723706847",
+            "1484795831",
+            "7990799592"
+        ],
+        "active": false
+    },
+    "ffecf9a5f944dd25": {
+        "id": "ffecf9a5f944dd25",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 10000000,
+        "max_activations": 10,
+        "used_activations": 4,
+        "created_at": 1772422629.6349843,
+        "expires_at": 1772509029.6349843,
+        "activated_by": [
+            "5723706847",
+            "8413010389",
+            "8442792156",
+            "1045547510"
+        ],
+        "active": false
+    },
+    "e3329114531fef9f": {
+        "id": "e3329114531fef9f",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 10000000,
+        "max_activations": 10,
+        "used_activations": 2,
+        "created_at": 1772625078.4858465,
+        "expires_at": 1772711478.4858465,
+        "activated_by": [
+            "6328174914",
+            "8413010389"
+        ],
+        "active": true
+    },
+    "22aff283a19e517d": {
+        "id": "22aff283a19e517d",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 10000000,
+        "max_activations": 10,
+        "used_activations": 4,
+        "created_at": 1772876124.9637196,
+        "expires_at": 1772962524.9637196,
+        "activated_by": [
+            "5723706847",
+            "8413010389",
+            "8156550135",
+            "7990799592"
+        ],
+        "active": false
+    },
+    "6f0d8b648163fb42": {
+        "id": "6f0d8b648163fb42",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 40000000,
+        "max_activations": 10,
+        "used_activations": 3,
+        "created_at": 1773052049.3579252,
+        "expires_at": 1773138449.3579252,
+        "activated_by": [
+            "8413010389",
+            "5723706847",
+            "7990799592"
+        ],
+        "active": false
+    },
+    "2a24363cd4a9438b": {
+        "id": "2a24363cd4a9438b",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 40000000,
+        "max_activations": 10,
+        "used_activations": 4,
+        "created_at": 1773227756.5740826,
+        "expires_at": 1773314156.5740826,
+        "activated_by": [
+            "5723706847",
+            "8511151534",
+            "8413010389",
+            "8442792156"
+        ],
+        "active": false
+    },
+    "a075a92c8b8dfcee": {
+        "id": "a075a92c8b8dfcee",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 40000000,
+        "max_activations": 10,
+        "used_activations": 3,
+        "created_at": 1773374021.6807199,
+        "expires_at": 1773460421.6807199,
+        "activated_by": [
+            "6210615544",
+            "7990799592",
+            "5723706847"
+        ],
+        "active": false
+    },
+    "f1bbdf58550beab8": {
+        "id": "f1bbdf58550beab8",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 40000000,
+        "max_activations": 10,
+        "used_activations": 5,
+        "created_at": 1773912669.3356664,
+        "expires_at": 1773999069.3356664,
+        "activated_by": [
+            "7556330471",
+            "1997185420",
+            "5913609510",
+            "6459221800",
+            "8389347003"
+        ],
+        "active": true
+    },
+    "900b1d6be84a053c": {
+        "id": "900b1d6be84a053c",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 40000000,
+        "max_activations": 10,
+        "used_activations": 10,
+        "created_at": 1774066067.4954386,
+        "expires_at": 1774152467.4954386,
+        "activated_by": [
+            "8583925129",
+            "8413010389",
+            "5970641322",
+            "8293853458",
+            "8389347003",
+            "6766512894",
+            "8605363590",
+            "5723706847",
+            "7270682693",
+            "7157076530"
+        ],
+        "active": false
+    },
+    "8bb647959a685885": {
+        "id": "8bb647959a685885",
+        "creator_id": "7990799592",
+        "creator_name": "scriptik_kormit",
+        "amount": 40000000,
+        "max_activations": 10,
+        "used_activations": 8,
+        "created_at": 1774070178.4445927,
+        "expires_at": 1774156578.4445927,
+        "activated_by": [
+            "8413010389",
+            "6825395287",
+            "5723706847",
+            "8583925129",
+            "5970641322",
+            "8688722889",
+            "8389347003",
+            "7157076530"
+        ],
+        "active": true
+    }
+          }
